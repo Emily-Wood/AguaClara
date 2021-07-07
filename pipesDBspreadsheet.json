@@ -1,12 +1,4 @@
-    {
-      "id": "48925K22",
-      "n": "3/8 Pipe Size, 5 Feet Long",
-      "ml": 1.524,
-      "od": 0.0170656,
-      "ind": 0.0125222,
-      "nd": 0.375,
-      "v": "MMC"
-    }
+    {"id": "48925K22","n": "3/8 Pipe Size, 5 Feet Long","ml": 1.524,"od": 0.0170656,"ind": 0.0125222,"nd": 0.375,"v": "MMC"}
     {
       "id": "48925K91",
       "n": "1/2 Pipe Size, 5 Feet Long",
